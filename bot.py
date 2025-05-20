@@ -18,7 +18,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Configuration
-TELEGRAM_BOT_TOKEN = os.getenv('TELEGRAM_BOT_TOKEN')
+TELEGRAM_BOT_TOKEN = os.getenv('7874374219:AAFdGhaAMKmjso_qTkM7xvcEtf6o4pH7JXc')
 ADMIN_ID = 7151308102  # Admin user ID
 WELCOME_MESSAGE = "Mirë se vjen në Albkings të grupi top1 në shqiptari postoni sa me shum pidha dhe degjeneroni te gjith kurvat"
 DATABASE_FILE = "users_database.json"
